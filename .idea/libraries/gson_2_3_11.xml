@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gson-2.3.11">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/Crawler_war_exploded/WEB-INF/lib/gson-2.3.1.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
